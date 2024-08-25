@@ -31,4 +31,4 @@
 ./main.ps1
 ```
 
-Specify the destination and choose type of collection.
+Specify the destination and choose the type of collection.
