@@ -1,5 +1,5 @@
 # Define the output directory
-$outputDir = Read-Host "Destination (D:\SystemInfo):"
+$outputDir = Read-Host "Destination (Example: D:\SystemInfo):"
 
 # Create the directory if it doesn't exist
 if (!(Test-Path -Path $outputDir)) {
